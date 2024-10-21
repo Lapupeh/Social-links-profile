@@ -1,17 +1,16 @@
 
-## Welcome! 👋
+Welcome! 👋
 
 Frontend Mentor - Social links profile solution
 
 Table of contents
 
-- [Overview]
-  - [The challenge]
-  - [Screenshot]
-  - [Links]
-- [My process]
-  - [Built with]
-- [Author]
+- Overview
+  - The challenge
+    -Screenshot
+  - Links
+- My process
+- Author
 
 
 Overview
@@ -22,7 +21,7 @@ The challenge
 
 
 
-![](./Preview.png)
+./Preview.png
 
 
 
